@@ -1,9 +1,9 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
-    "versioncode": 3820,
-    "versionname": "3.8.2",
+    "app_id": "com.bornalc.moodlemobile",
+    "appname": "Courseware",
+    "desktopappname": "Courseware Desktop",
+    "versioncode": 1000,
+    "versionname": "1.0.0",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -59,36 +59,25 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+    "demo_sites": "",
     "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "https://cw.bornalc.com",
     "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.net\/moodle-app-privacy\/",
-    "notificoncolor": "#f98012",
+    "notificoncolor": "#ed3337",
     "statusbarbg": false,
     "statusbarlighttext": false,
-    "statusbarbgios": "#f98012",
+    "statusbarbgios": "#ed3337",
     "statusbarlighttextios": true,
-    "statusbarbgandroid": "#df7310",
+    "statusbarbgandroid": "#c11b1e",
     "statusbarlighttextandroid": true,
     "statusbarbgremotetheme": "#000000",
     "statusbarlighttextremotetheme": true,
